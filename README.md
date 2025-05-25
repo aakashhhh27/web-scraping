@@ -6,6 +6,7 @@ Scrapes current prices of selected products from e-commerce websites
 Sends notifications or logs when prices drop
 Simple UI to display current prices (hosted via Netlify)
 Lightweight and customizable
+
 🛠️ Tech Stack
 Backend: Python, Requests, BeautifulSoup
 Frontend: HTML/CSS (or any templating engine if used)
